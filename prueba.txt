@@ -1,3 +1,4 @@
 entendiendo esto
 segunda linea
-esta la cree en master para probar union de 2 ramas
+solucion de conflicto
+
