@@ -3,3 +3,6 @@ segunda linea
 solucion de conflicto
 haciendo prueba de push
 haciendo prueba de pull
+crreando commit en otra rama feature-new
+prueba de sobreescribir
+
